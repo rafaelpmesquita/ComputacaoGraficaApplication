@@ -1,0 +1,5 @@
+C:\Users\reife\OneDrive\Área de Trabalho\Faculdade\Semetre 7\Computação grafica\Roteiro 1\Roteiro1\Roteiro1\bin\publish\Roteiro1.exe
+C:\Users\reife\OneDrive\Área de Trabalho\Faculdade\Semetre 7\Computação grafica\Roteiro 1\Roteiro1\Roteiro1\bin\publish\Roteiro1.dll
+C:\Users\reife\OneDrive\Área de Trabalho\Faculdade\Semetre 7\Computação grafica\Roteiro 1\Roteiro1\Roteiro1\bin\publish\Roteiro1.deps.json
+C:\Users\reife\OneDrive\Área de Trabalho\Faculdade\Semetre 7\Computação grafica\Roteiro 1\Roteiro1\Roteiro1\bin\publish\Roteiro1.runtimeconfig.json
+C:\Users\reife\OneDrive\Área de Trabalho\Faculdade\Semetre 7\Computação grafica\Roteiro 1\Roteiro1\Roteiro1\bin\publish\Roteiro1.pdb
